@@ -5,7 +5,7 @@ In this version, the parity of astrobots [1] are variable. [Parity is the direct
 
 [2] [M. Macktoobian, F. Basciani, D. Gillet, and J-P. Kneib, Learning Convergence Prediction of Astrobots in Multi-Object Spectrographs, Journal of Astronomical Telescopes, Instruments, and Systems 7(1), Article 018003, 2021](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-7/issue-1/018003/Learning-convergence-prediction-of-astrobots-in-multi-object-spectrographs/10.1117/1.JATIS.7.1.018003.short)
 
-If you would like, totally or partially, use this code, please cite the following paper: 
+>> If you would like to, totally or partially, use this code, please cite the following paper: 
 
 ```bash
 @article{macktoobian2021learning,
